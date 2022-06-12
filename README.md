@@ -102,7 +102,6 @@ main :: func(): void {
 - Create Bilingual webpages and GitHub profile
 - Check if possible to edit GitHub files from phone
 - Create/define folders and arrange files
--  
 
 
 
@@ -110,6 +109,7 @@ main :: func(): void {
 # 𝗪𝗵𝗮𝘁 𝘄𝗶𝗹𝗹 𝗶 𝗱𝗼 𝘁𝗵𝗶𝘀 𝘄𝗲𝗲𝗸
 I have achieved:
 - Create my own webpage.
-- Personalize my gitHub profile
+- Personalize my gitHub profile.
+- Start C50
 
 
