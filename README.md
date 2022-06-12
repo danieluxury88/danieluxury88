@@ -12,18 +12,21 @@ aboutMe :: struct {
   languages :: string[];
   hobbies :: string[];
   funFact :: string;
+  dreamJob:: string;
 }
 
 main :: func(): void {
   daniel :: aboutMe = {
     languages: ["C", "C++", "Java", "Dart", "Python"],
     hobbies: ["Coding", "Gaming e-Football/RL", "Project Management"],
-    funFact: "Consider accepting to the office only for considerable more money!"
+    funFact: "Consider accepting to the office only for considerable more money!",
+    dreamJob: "e-Football 2022 QA"
   };
 
   println "Languages I Know: ${daniel.languages}";
   println "My Hobbies: ${daniel.hobbies}";
   println "Fun Fact: ${daniel.funFact}";
+  println "My dream Job is: ${daniel.dreamJob}";
 }
 ```
 
@@ -88,6 +91,18 @@ main :: func(): void {
 - 💻 Learning Web Development
 - Helping my wife create an eCommerce.
 - Creating a portfolio to apply remote jobs.
+
+## Upcoming Projects
+
+- Create BAT File to download repo, compile different projects, create static analysis reports, and create reports
+- Teach to asociate ideas (Homework:  1) Computer Science is solving problems.
+                                      2) Crear líneas de razonamiento para asociar ideas.
+                                      3) Ponderación de ideas
+                                      4) Juego/Cuestionario Interactivo
+- Create Bilingual webpages and GitHub profile
+- Check if possible to edit GitHub files from phone
+- Create/define folders and arrange files
+-  
 
 
 
