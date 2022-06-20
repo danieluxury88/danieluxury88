@@ -90,7 +90,8 @@ main :: func(): void {
 
 - 💻 Learning Web Development
 - Helping my wife create an eCommerce.
-- Creating a portfolio to apply remote jobs.
+- Creating a portfolio to apply remote jobs. (danieluxury.tech)
+- Creating WhyWFH.net (Why WorkFromHome website)
 
 
 
