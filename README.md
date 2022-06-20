@@ -92,18 +92,19 @@ main :: func(): void {
 - Helping my wife create an eCommerce.
 - Creating a portfolio to apply remote jobs.
 
-## Upcoming Projects
 
-- Create BAT File to download repo, compile different projects, create static analysis reports, and create reports
+
+## Upcoming Projects
 - Teach to asociate ideas (Homework:  1) Computer Science is solving problems.
                                       2) Crear líneas de razonamiento para asociar ideas.
                                       3) Ponderación de ideas
                                       4) Juego/Cuestionario Interactivo
+- Create BAT File to download repo, compile different projects, create static analysis reports, and create reports
 - Create Bilingual webpages and GitHub profile
+
+
+# Projects Backlog
 - Check if possible to edit GitHub files from phone
-- Create/define folders and arrange files
-
-
 
 
 # 𝗪𝗵𝗮𝘁 𝘄𝗶𝗹𝗹 𝗶 𝗱𝗼 𝘁𝗵𝗶𝘀 𝘄𝗲𝗲𝗸
