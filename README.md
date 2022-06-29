@@ -100,18 +100,22 @@ main :: func(): void {
                                       2) Crear líneas de razonamiento para asociar ideas.
                                       3) Ponderación de ideas
                                       4) Juego/Cuestionario Interactivo
-- Create BAT File to download repo, compile different projects, create static analysis reports, and create reports
+- 
 - Create Bilingual webpages and GitHub profile
 
 
 # Projects Backlog
 - Check if possible to edit GitHub files from phone
+- Create BAT File to download repo, compile different projects, create static analysis reports, and create reports
+- Learn to format MD File
 
 
-# 𝗪𝗵𝗮𝘁 𝘄𝗶𝗹𝗹 𝗶 𝗱𝗼 𝘁𝗵𝗶𝘀 𝘄𝗲𝗲𝗸
+# 𝗪𝗵𝗮𝘁 I made since start
+
 I have achieved:
 - Create my own webpage.
 - Personalize my gitHub profile.
 - Start C50
+- 
 
 
