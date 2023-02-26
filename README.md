@@ -1,11 +1,10 @@
 # Hello, Im Daniel!
 
 - Electronic Engineer working as firmware developer (10 years).
-- Currently suffering on non-architecture Projects.
-- <mark><b>Looking a way to get Remote work and not leave my pet alone!</mark></b>
-- I don't know any "Julia" (copied section below), but if necessary on the road, I will learn :)
+- <mark><b>Looking for a Remote job and not leave my pet alone!</mark></b>
+- AI developer in the middle future.
 
-```julia
+```
 module main
 
 aboutMe :: struct {
@@ -88,7 +87,7 @@ main :: func(): void {
 
 # 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
 
-- 💻 Learning Web Development
+- 💻 Learning Web Development!
 - Helping my wife create an eCommerce.
 - Creating a portfolio to apply remote jobs. (danieluxury.tech)
 - Creating WhyWFH.net (Why WorkFromHome website)
@@ -97,17 +96,17 @@ main :: func(): void {
 
 ## Upcoming Projects
 - Teach to asociate ideas (Homework:  1) Computer Science is solving problems.
-                                      2) Crear líneas de razonamiento para asociar ideas.
-                                      3) Ponderación de ideas
-                                      4) Juego/Cuestionario Interactivo
+                                      2) Associate knowledge and ideas to create wisdom.
+                                      3) Give weight to ideas.
+                                      4) Interactive game.)
 - 
 - Create Bilingual webpages and GitHub profile
 
 
 # Projects Backlog
-- Check if possible to edit GitHub files from phone
+- Check if possible to edit GitHub files from phone. 
 - Create BAT File to download repo, compile different projects, create static analysis reports, and create reports
-- Learn to format MD File
+- Ponciano Organizado Android Game
 
 
 # 𝗪𝗵𝗮𝘁 I made since start
@@ -115,7 +114,5 @@ main :: func(): void {
 I have achieved:
 - Create my own webpage.
 - Personalize my gitHub profile.
-- Start C50
-- 
 
 
