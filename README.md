@@ -16,10 +16,10 @@ aboutMe :: struct {
 
 main :: func(): void {
   daniel :: aboutMe = {
-    languages: ["C", "C++", "Java", "Dart", "Python"],
-    hobbies: ["Coding", "Gaming e-Football/RL", "Project Management"],
-    funFact: "Consider accepting to the office only for considerable more money!",
-    dreamJob: "e-Football 2022 QA"
+    languages: ["C", "C++", "Python", "Java", "Dart"],
+    hobbies: ["Coding", "Project Management", "Gaming e-Football/RL"],
+    funFact: "I expect to retire from programming at 92 (2080)",
+    dreamJob: "e-Football QA", "IA APIs integrator",
   };
 
   println "Languages I Know: ${daniel.languages}";
@@ -42,6 +42,10 @@ main :: func(): void {
         <span>𝗖++</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/c-plusplus.svg">
       </td>
+     <td width="20%" align="center">
+        <span>𝗣𝘆𝘁𝗵𝗼𝗻</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
+      </td>
       <td width="20%" align="center">
         <span>𝗝𝗮𝘃𝗮</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
@@ -50,12 +54,12 @@ main :: func(): void {
         <span><b>Dart</b></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/dart.svg">
       </td>
-      <td width="20%" align="center">
-        <span>𝗣𝘆𝘁𝗵𝗼𝗻</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
-      </td>
     </tr>
     <tr valign="top">
+      <td width="20%" align="center">
+        <span>Django</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/django-icon.svg">
+      </td>
       <td width="20%" align="center">
         <span>𝗩𝗶𝘀𝘂𝗮𝗹 𝗦𝘁𝘂𝗱𝗶𝗼 𝗖𝗼𝗱𝗲</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
@@ -87,10 +91,9 @@ main :: func(): void {
 
 # 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
 
-- 💻 Learning Web Development!
-- Helping my wife create an eCommerce.
+- 💻 Web Development!
+- Creating eCommerce for my wife.
 - Creating a portfolio to apply remote jobs. (danieluxury.tech)
-- Creating WhyWFH.net (Why WorkFromHome website)
 
 
 
@@ -99,13 +102,10 @@ main :: func(): void {
                                       2) Associate knowledge and ideas to create wisdom.
                                       3) Give weight to ideas.
                                       4) Interactive game.)
-- 
 - Create Bilingual webpages and GitHub profile
 
 
 # Projects Backlog
-- Check if possible to edit GitHub files from phone. 
-- Create BAT File to download repo, compile different projects, create static analysis reports, and create reports
 - Ponciano Organizado Android Game
 
 
@@ -114,5 +114,7 @@ main :: func(): void {
 I have achieved:
 - Create my own webpage.
 - Personalize my gitHub profile.
+- CS50 Web Development Certificate.
+- D4E Michigan University Certificate.
 
 
