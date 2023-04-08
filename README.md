@@ -76,10 +76,10 @@ main :: func(): void {
         <span><b>Klocwork Roguewave</b></span><br><br><br>
         <img height="64px" src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_40d0b5354d59f2f0030b4443e1f5b3d3/klocwork.jpg">
       </td>
-      <td width="20%" align="center">
+<!--       <td width="20%" align="center">
         <span><b>LDRA</b></span><br><br><br>
         <img height="64px" src="https://pbs.twimg.com/profile_images/1693088411/LDRA_logo_400x400.png">
-      </td>
+      </td> -->
     <!---
       <td width="20%" align="center">
         <span>𝗦𝘂𝗯𝗹𝗶𝗺𝗲 𝗧𝗲𝘅𝘁 𝟯</span><br><br><br>
