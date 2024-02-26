@@ -107,7 +107,7 @@ main :: func(): void {
 </table>
 
 ## Upcoming Projects
-- Creating a Symfony portfolio (and personal management tool) to apply remote jobs. [Danieluxury.tech](https://danieluxury.tech)
+- Creating a Symfony portfolio (and personal management tool) to apply remote jobs. <a href="https://www.danieluxury.tech" target="_blank">Danieluxury Tech</a>
 - Creating a WP portfolio using Timber to apply for remote jobs. [Danieluxury.com](https://danieluxury.com)
 
 
