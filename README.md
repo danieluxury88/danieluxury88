@@ -106,24 +106,22 @@ main :: func(): void {
   </tbody>
 </table>
 
-# 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
-
-- 💻 Web Development!
-- Creating eCommerce for my wife.
-- Creating a portfolio to apply remote jobs. (danieluxury.tech)
-
+## Upcoming Projects
+- Creating a Symfony portfolio (and personal management tool) to apply remote jobs. [Danieluxury.tech](https://danieluxury.tech)
+- Creating a WP portfolio using Timber to apply for remote jobs. [Danieluxury.com](https://danieluxury.com)
 
 
 ## Upcoming Projects
+
+
+# Projects Backlog
+- Ponciano Organizado Android Game
 - Teach to associate ideas (Homework:   1) Computer Science is solving problems.
                                         2) Associate knowledge and ideas to create wisdom.
                                         3) Give weight to ideas.
                                         4) Interactive game.)
   
 - Create Bilingual webpages and GitHub profile.
-
-# Projects Backlog
-- Ponciano Organizado Android Game
 
 
 # 𝗪𝗵𝗮𝘁 I made since start
