@@ -1,5 +1,7 @@
 # Hello, Im Daniel!
 
+
+- Web Developer (since Feb 2023).
 - Electronic Engineer working as firmware developer (10 years).
 - <mark><b>Looking for a Remote job and not leave my pet alone!</mark></b>
 - AI developer in the middle future.
@@ -106,12 +108,10 @@ main :: func(): void {
   </tbody>
 </table>
 
-## Upcoming Projects
-- Creating a Symfony portfolio (and personal management tool) to apply remote jobs. <a href="https://www.danieluxury.tech" target="_blank">Danieluxury Tech</a>
-- Creating a WP portfolio using Timber to apply for remote jobs. [Danieluxury.com](https://danieluxury.com)
+## Current Projects
+- Creating a Symfony portfolio (and personal management tool) to apply remote jobs. <a href="https://www.danieluxury.tech" target="_blank">Danieluxury.tech</a>
+- Creating a WP portfolio using Timber to apply for remote jobs. <a href="https://www.danieluxury.com" target="_blank">Danieluxury.com</a>
 
-
-## Upcoming Projects
 
 
 # Projects Backlog
