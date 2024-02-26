@@ -112,14 +112,13 @@ main :: func(): void {
 - Creating a Symfony portfolio (and personal management tool) to apply remote jobs. <a href="https://www.danieluxury.tech" target="_blank">Danieluxury.tech</a>
 - Creating a WP portfolio using Timber to apply for remote jobs. <a href="https://www.danieluxury.com" target="_blank">Danieluxury.com</a>
 
-
-
 # Projects Backlog
-- Ponciano Organizado Android Game
-- Teach to associate ideas (Homework:   1) Computer Science is solving problems.
-                                        2) Associate knowledge and ideas to create wisdom.
-                                        3) Give weight to ideas.
-                                        4) Interactive game.)
+- Ponciano Organizado Android Game.
+- Teach to associate ideas :
+    1) Computer Science is solving problems.
+    2) Associate knowledge and ideas to create wisdom.
+    3) Give weight to ideas.
+    4) Interactive game.
   
 - Create Bilingual webpages and GitHub profile.
 
