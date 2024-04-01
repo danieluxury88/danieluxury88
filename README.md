@@ -10,9 +10,8 @@
 module main
 
 aboutMe :: struct {
-  age :: int[];
+  age :: int;
   languages :: string[];
-  programming languages :: string[];
   hobbies :: string[];
   funFact :: string;
   dreamJob:: string;
