@@ -22,7 +22,6 @@ main :: func(): void {
   daniel :: aboutMe = {
     age: 35,
     languages: ["Php", "JavaScript", "Python", "C", "C++", "Java"],
-    programming languages: ["C", "C++", "Python", "Java", "Dart"],
     hobbies: ["Coding", "Project Management", "Gaming e-Football/RL"],
     funFact: "I expect to retire from programming at 92 (2080)",
     dreamJob: "e-Football QA", "IA APIs integrator",
