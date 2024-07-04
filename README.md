@@ -1,9 +1,8 @@
 # Hello, Im Daniel!
 
 
-- Web Developer (since Feb 2023).
+- Software/Web Developer (since Feb 2023).
 - Electronic Engineer working as firmware developer (10 years).
-- <mark><b>Looking for a Remote job and not leave my pet alone!</mark></b>
 - AI developer in the middle future.
 
 ```
@@ -20,8 +19,8 @@ aboutMe :: struct {
 main :: func(): void {
   daniel :: aboutMe = {
     age: 35,
-    languages: ["Php", "JavaScript", "Python", "C", "C++", "Java"],
-    hobbies: ["Coding", "Project Management", "Gaming e-Football/RL"],
+    languages: ["Php", "Python", "JavaScript", "C", "C++", "Java"],
+    hobbies: ["Project Management", "Philosophy", "Gaming e-Football"],
     funFact: "I expect to retire from programming at 92 (2080)",
     dreamJob: "e-Football QA", "IA APIs integrator",
   };
@@ -108,27 +107,18 @@ main :: func(): void {
 
 ## Current Projects
 - Creating a Symfony portfolio (and personal management tool) to apply remote jobs. <a href="https://www.danieluxury.tech" target="_blank">Danieluxury.tech</a>
-- Creating a WP portfolio using Timber to apply for remote jobs. <a href="https://www.danieluxury.com" target="_blank">Danieluxury.com</a>
+- Collaborating in Drupal project for ProtonSystems.
+- Creating projects for Linkhome.
 
 # Projects Backlog
-- Ponciano Organizado Android Game.
+- Ponciano Organizado Game.
 - Teach to associate ideas :
     1) Computer Science is solving problems.
     2) Associate knowledge and ideas to create wisdom.
     3) Give weight to ideas.
     4) Interactive game.
+ 
+# Long Term Goals
+- Create Personal Management Tool.
+- Study Philosophy and Theology.
   
-- Create Bilingual webpages and GitHub profile.
-
-
-# 𝗪𝗵𝗮𝘁 I made since start
-
-I have achieved:
-- Create my own webpage.
-- Personalize my gitHub profile.
-- CS50 Web Development Certificate.
-- D4E Michigan University Certificate.
-- Refactored PHP project.
-- Created Twilio chatbot and integrated in vanilla Php project.
-- Created apify web scrappers.
-- Customize Drupal Commerce checkout flow.
