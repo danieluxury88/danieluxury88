@@ -18,9 +18,9 @@ aboutMe :: struct {
 
 main :: func(): void {
   daniel :: aboutMe = {
-    age: 35,
+    age: 36,
     languages: ["Php", "Python", "JavaScript", "C", "C++", "Java"],
-    hobbies: ["Project Management", "Philosophy", "Gaming e-Football"],
+    hobbies: ["Philosophy", "Project Management", "Gaming e-Football"],
     funFact: "I expect to retire from programming at 92 (2080)",
     dreamJob: "e-Football QA", "IA APIs integrator",
   };
@@ -107,8 +107,8 @@ main :: func(): void {
 
 ## Current Projects
 - Creating a Symfony portfolio (and personal management tool) to apply remote jobs. <a href="https://www.danieluxury.tech" target="_blank">Danieluxury.tech</a>
-- Collaborating in Drupal project for ProtonSystems.
-- Creating projects for Linkhome.
+- Collaborating in Drupal and WordPress projects for ProtonSystems.
+- Creating projects for LinkHome Ecuador.
 
 ## Projects Backlog
 - Ponciano Organizado Game.
