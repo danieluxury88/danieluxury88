@@ -76,8 +76,8 @@ main :: func(): void {
         <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
       </td>
       <td width="20%" align="center">
-        <span><b>Bash</b></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/bash.svg">
+        <span><b>Playwright</b></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/playwright.svg">
       </td>
     </tr>
     <tr valign="top">
