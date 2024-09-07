@@ -49,13 +49,65 @@ main :: func(): void {
         <span>Php</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/php.svg">
       </td>
-     <td width="20%" align="center">
+      <td width="20%" align="center">
+        <span>𝗣𝘆𝘁𝗵𝗼𝗻</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
+      </td>
+      <td width="20%" align="center">
+        <span>
+          <b>Wordpress</b>
+        </span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/wordpress.svg">
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="20%" align="center">
         <span>Javascript</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
       <td width="20%" align="center">
-        <span><b>Wordpress</b></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/wordpress.svg">
+        <span>Sass</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/sass.svg">
+      </td>
+    <td width="20%" align="center">
+        <span>Django</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/django-icon.svg">
+      </td>
+      <td width="20%" align="center">
+        <span>
+          <b>Git</b>
+        </span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+      </td>
+      <td width="20%" align="center">
+        <span>
+          <b>Playwright</b>
+        </span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/playwright.svg">
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="20%" align="center">
+        <span>Bash</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/bash-icon.svg">
+      </td>
+      <td width="20%" align="center">
+        <span>FastApi</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/fastapi-icon.svg">
+      </td>
+      <td width="20%" align="center">
+        <span>𝗩𝗶𝘀𝘂𝗮𝗹 𝗦𝘁𝘂𝗱𝗶𝗼 𝗖𝗼𝗱𝗲</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
+      </td>
+      <td width="20%" align="center">
+        <span>
+          <b>Telegram</b>
+        </span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/telegram.svg">
+      </td>
+      <td width="20%" align="center">
+        <span>𝗝𝗮𝘃𝗮</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
       </td>
     </tr>
     <tr valign="top">
@@ -67,45 +119,27 @@ main :: func(): void {
         <span>𝗖++</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/c-plusplus.svg">
       </td>
-     <td width="20%" align="center">
-        <span>𝗣𝘆𝘁𝗵𝗼𝗻</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
+      <td width="20%" align="center">
+        <span>arm</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/arm.svg">
       </td>
       <td width="20%" align="center">
-        <span>𝗝𝗮𝘃𝗮</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
-      </td>
-      <td width="20%" align="center">
-        <span><b>Playwright</b></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/playwright.svg">
-      </td>
-    </tr>
-    <tr valign="top">
-      <td width="20%" align="center">
-        <span>Django</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/django-icon.svg">
-      </td>
-      <td width="20%" align="center">
-        <span>Sass</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/sass.svg">
-      </td>
-      <td width="20%" align="center">
-        <span>𝗩𝗶𝘀𝘂𝗮𝗹 𝗦𝘁𝘂𝗱𝗶𝗼 𝗖𝗼𝗱𝗲</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
-      </td>
-      <td width="20%" align="center">
-        <span><b>IAR Embedded Workbench</b></span><br><br><br>
+        <span>
+          <b>IAR Embedded Workbench</b>
+        </span><br><br><br>
         <img height="64px" src="https://di9mr54a05a64.cloudfront.net/api-elektronikexpo.expoplatform.com/image/769x0/MTU4ODA1OTMxNTVlYTdkY2IzMGI2ZTc=.png">
       </td>
       <td width="20%" align="center">
-        <span><b>Klocwork Roguewave</b></span><br><br><br>
+        <span>
+          <b>Klocwork Roguewave</b>
+        </span><br><br><br>
         <img height="64px" src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_40d0b5354d59f2f0030b4443e1f5b3d3/klocwork.jpg">
       </td>
     </tr>
   </tbody>
 </table>
-
-## Current Projects
+ 
+ ## Current Projects
 - Creating a Symfony portfolio (and personal management tool) to apply remote jobs. <a href="https://www.danieluxury.tech" target="_blank">Danieluxury.tech</a>
 - Collaborating in Drupal and WordPress projects for ProtonSystems.
 - Creating projects for LinkHome Ecuador.
