@@ -45,13 +45,13 @@ main :: func(): void {
         <span>Drupal</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/drupal.svg">
       </td>
-     <td width="20%" align="center">
-        <span>Javascript</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
-      </td>
       <td width="20%" align="center">
         <span>Php</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/php.svg">
+      </td>
+     <td width="20%" align="center">
+        <span>Javascript</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
       <td width="20%" align="center">
         <span><b>Wordpress</b></span><br><br><br>
@@ -76,8 +76,8 @@ main :: func(): void {
         <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
       </td>
       <td width="20%" align="center">
-        <span><b>Dart</b></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/dart.svg">
+        <span><b>Bash</b></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/bash.svg">
       </td>
     </tr>
     <tr valign="top">
