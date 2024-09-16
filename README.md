@@ -140,7 +140,7 @@ main :: func(): void {
 </table>
  
  ## Current Projects
-- Creating a Symfony portfolio (and personal management tool) to apply remote jobs. <a href="https://www.danieluxury.tech" target="_blank">Danieluxury.tech</a>
+- Creating a Symfony portfolio (and personal management tool) to apply remote jobs. <a href="https://mvp.danieluxury.top" target="_blank">Danieluxury.top</a>
 - Collaborating in Drupal and WordPress projects for ProtonSystems.
 - Creating projects for LinkHome Ecuador.
 
