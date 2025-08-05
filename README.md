@@ -18,7 +18,7 @@ aboutMe :: struct {
 
 main :: func(): void {
   daniel :: aboutMe = {
-    age: 36,
+    age: 37,
     languages: ["Php", "Python", "JavaScript", "C", "C++", "Java"],
     hobbies: ["Philosophy", "Project Management", "Gaming e-Football"],
     funFact: "I expect to retire from programming at 92 (2080)",
