@@ -1,158 +1,182 @@
-# Hello, Im Daniel!
+# Hello, I'm Daniel 👋
 
+🚀 Software Developer | Drupal & Symfony Specialist | Former Firmware Engineer  
 
-- Software/Web Developer (since Feb 2023).
-- Electronic Engineer working as firmware developer (10 years).
-- AI developer in the middle future.
+- 💻 Web Developer since **2023**  
+- ⚡ Electronic Engineer with **10 years in Firmware Development**  
+- 🌍 Currently working on Drupal migration & enterprise web platforms  
+- 🤖 Exploring AI integration and automation for modern applications  
 
-```
-module main
+## 🧩 Current Identity
+
+- 🛠️ Web Developer since **2023**
+- ⚡ Firmware Engineer for **10 years** (C/C++, ARM, embedded systems)
+- 🏛️ Working on large-scale Drupal migrations & Symfony systems
+- 🤖 Slowly moving into AI + developer automation
+
+---
+
+## 🧠 About Me (compiled)
+
+```rust
+module daniel
 
 aboutMe :: struct {
-  age :: int;
-  languages :: string[];
-  hobbies :: string[];
-  funFact :: string;
-  dreamJob:: string;
+  mission    :: string;
+  stack      :: string[];
+  hobbies    :: string[];
+  funFact    :: string;
+  currentRun :: string;
 }
 
 main :: func(): void {
   daniel :: aboutMe = {
-    age: 37,
-    languages: ["Php", "Python", "JavaScript", "C", "C++", "Java"],
-    hobbies: ["Philosophy", "Project Management", "Gaming e-Football"],
-    funFact: "I expect to retire from programming at 92 (2080)",
-    dreamJob: "e-Football QA", "IA APIs integrator",
+    mission: "Build useful systems that feel light, clean, and meaningful.",
+    stack: ["Drupal", "Symfony", "PHP", "Python", "JavaScript"],
+    hobbies: ["Philosophy", "Project Architecture", "e-Football"],
+    funFact: "Retiring from programming at 92 (no sooner).",
+    currentRun: "Migrating universities + building personal tools.",
   };
 
-  println "Languages I Know: ${daniel.languages}";
-  println "My Hobbies: ${daniel.hobbies}";
-  println "Fun Fact: ${daniel.funFact}";
-  println "My dream Job is: ${daniel.dreamJob}";
+  println("Loading Daniel...");
 }
-```
+````
 
-## 𝗪𝗵𝗮𝘁 𝗜 𝗨𝘀𝗲
+---
+
+## 🧰 Tools I Like Carrying
 
 <table>
-  <tbody>
-    <tr valign="top">
-      <td width="20%" align="center">
-        <span>Symfony</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/symfony.svg">
-      </td>
-      <td width="20%" align="center">
-        <span>Drupal</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/drupal.svg">
-      </td>
-      <td width="20%" align="center">
-        <span>Php</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/php.svg">
-      </td>
-      <td width="20%" align="center">
-        <span>𝗣𝘆𝘁𝗵𝗼𝗻</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
-      </td>
-      <td width="20%" align="center">
-        <span>
-          <b>Wordpress</b>
-        </span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/wordpress.svg">
-      </td>
-    </tr>
-    <tr valign="top">
-      <td width="20%" align="center">
-        <span>Javascript</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
-      </td>
-      <td width="20%" align="center">
-        <span>Sass</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/sass.svg">
-      </td>
-    <td width="20%" align="center">
-        <span>Django</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/django-icon.svg">
-      </td>
-      <td width="20%" align="center">
-        <span>
-          <b>Git</b>
-        </span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
-      </td>
-      <td width="20%" align="center">
-        <span>
-          <b>Playwright</b>
-        </span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/playwright.svg">
-      </td>
-    </tr>
-    <tr valign="top">
-      <td width="20%" align="center">
-        <span>Bash</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/bash-icon.svg">
-      </td>
-      <td width="20%" align="center">
-        <span>FastApi</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/fastapi-icon.svg">
-      </td>
-      <td width="20%" align="center">
-        <span>𝗩𝗶𝘀𝘂𝗮𝗹 𝗦𝘁𝘂𝗱𝗶𝗼 𝗖𝗼𝗱𝗲</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
-      </td>
-      <td width="20%" align="center">
-        <span>
-          <b>Telegram</b>
-        </span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/telegram.svg">
-      </td>
-      <td width="20%" align="center">
-        <span>𝗝𝗮𝘃𝗮</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
-      </td>
-    </tr>
-    <tr valign="top">
-      <td width="20%" align="center">
-        <span>𝗖</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/c.svg">
-      </td>
-      <td width="20%" align="center">
-        <span>𝗖++</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/c-plusplus.svg">
-      </td>
-      <td width="20%" align="center">
-        <span>arm</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/arm.svg">
-      </td>
-      <td width="20%" align="center">
-        <span>
-          <b>IAR Embedded Workbench</b>
-        </span><br><br><br>
-        <img height="64px" src="https://di9mr54a05a64.cloudfront.net/api-elektronikexpo.expoplatform.com/image/769x0/MTU4ODA1OTMxNTVlYTdkY2IzMGI2ZTc=.png">
-      </td>
-      <td width="20%" align="center">
-        <span>
-          <b>Klocwork Roguewave</b>
-        </span><br><br><br>
-        <img height="64px" src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_40d0b5354d59f2f0030b4443e1f5b3d3/klocwork.jpg">
-      </td>
-    </tr>
-  </tbody>
-</table>
- 
- ## Current Projects
-- Creating a Symfony portfolio (and personal management tool) to apply remote jobs. <a href="https://mvp.danieluxury.top" target="_blank">Danieluxury.top</a>
-- Collaborating in Drupal and WordPress projects for ProtonSystems.
-- Creating projects for LinkHome Ecuador.
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.svgporn.com/logos/symfony.svg" height="48"/>
+      <br>Symfony
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.svgporn.com/logos/drupal.svg" height="48"/>
+      <br>Drupal
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.svgporn.com/logos/php.svg" height="48"/>
+      <br>PHP
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.svgporn.com/logos/python.svg" height="48"/>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.svgporn.com/logos/javascript.svg" height="48"/>
+      <br>JavaScript
+    </td>
+  </tr>
 
-## Projects Backlog
-- Ponciano Organizado Game.
-- Teach to associate ideas :
-    1) Computer Science is solving problems.
-    2) Associate knowledge and ideas to create wisdom.
-    3) Give weight to ideas.
-    4) Interactive game.
- 
-# Long Term Goals
-- Create Personal Management Tool.
-- Study Philosophy and Theology.
-  
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.svgporn.com/logos/docker-icon.svg" height="48"/>
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.svgporn.com/logos/linux-tux.svg" height="48"/>
+      <br>Linux
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.svgporn.com/logos/bash-icon.svg" height="48"/>
+      <br>Bash
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.svgporn.com/logos/git-icon.svg" height="48"/>
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.svgporn.com/logos/visual-studio-code.svg" height="48"/>
+      <br>VS Code
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.svgporn.com/logos/htmx.svg" height="48"/>
+      <br>HTMX
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.svgporn.com/logos/fastapi-icon.svg" height="48"/>
+      <br>FastAPI
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.svgporn.com/logos/django-icon.svg" height="48"/>
+      <br>Django
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.svgporn.com/logos/playwright.svg" height="48"/>
+      <br>Playwright
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.svgrepo.com/show/373977/plantuml.svg" height="48"/>
+      <br>PlantUML
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.svgporn.com/logos/c.svg" height="48"/>
+      <br>C
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.svgporn.com/logos/c-plusplus.svg" height="48"/>
+      <br>C++
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.svgporn.com/logos/java.svg" height="48"/>
+      <br>Java
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.svgporn.com/logos/arm.svg" height="48"/>
+      <br>ARM
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.svgporn.com/logos/sqlite.svg" height="48"/>
+      <br>SQLite
+    </td>
+  </tr>
+</table>
+
+
+## 🧪 Current Experiments
+
+* 🌐 Building my personal platform + digital toolbox
+  → [https://mvp.danieluxury.top](https://mvp.danieluxury.top)
+
+* 🏛️ Collaborating on Drupal ecosystems at **ProtonSystems**
+  (migration, architecture, enterprise platforms)
+
+* 🇪🇨 Projects for LinkHome Ecuador
+
+---
+
+## 📦 Backlog of Side Quests
+
+* 🎮 *Ponciano Organizado* — a game about structured life
+* 🧠 A tool to connect ideas → wisdom engine
+* 📊 Personal dashboards for planning + finances + growth
+
+---
+
+## 🎯 Long Game
+
+* Become a **Drupal / Software Architect**
+* Build an ecosystem of human + bot collaboration
+* Study Philosophy + Theology while building technology
+
+---
+
+## 🛰️ Transmission Open
+
+I like projects that are:
+
+* ambitious
+* efficient
+* a bit weird
+* deeply human
+
+Feel free to explore my repos or reach out.
+
