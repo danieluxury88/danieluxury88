@@ -52,9 +52,6 @@ I'm a software developer based in Quito, Ecuador. I build Drupal and Symfony app
 
 | Project | My contribution |
 | --- | --- |
-| **University of Liechtenstein — uni.li** | Led the migration from a profile-based Drupal installation to a new project, developing plugins to migrate configuration, multilingual content, and nested Paragraphs. |
-| **[Fulterer](https://fulterer.com/)** | Developed custom modules and data normalization/import tools, upgraded versions, and customized Drupal Commerce for an industrial catalog and webshop. |
-| **holzbaukunst** | Refactored the Symfony API supporting a WordPress site and built the replacement website. |
 | **[LeonorMerino gallery](https://galeria.seriousdesign.net/)** | Built the art gallery and implemented workflows to import and convert images. |
 | **[My personal site](https://daniel.seriousdesign.net/)** | Using Drupal AI modules to explore AI integration in a working Drupal project. |
 | **Core and Watchtower** | Built tools to check Drupal projects against internal standards and run SEO and technology audits. |
