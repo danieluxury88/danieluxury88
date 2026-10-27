@@ -1,182 +1,43 @@
-# Hello, I'm Daniel 👋
+# Hi, I'm Daniel
 
-🚀 Software Developer | Drupal & Symfony Specialist | Former Firmware Engineer  
+I'm a software developer based in Quito, Ecuador. I build Drupal and Symfony applications, migrate legacy sites, and create tools that make projects easier to maintain and deploy.
 
-- 💻 Web Developer since **2023**  
-- ⚡ Electronic Engineer with **10 years in Firmware Development**  
-- 🌍 Currently working on Drupal migration & enterprise web platforms  
-- 🤖 Exploring AI integration and automation for modern applications  
+I've worked with Drupal since 2023. Before moving into web development, I spent ten years developing automotive firmware with C/C++ and ARM.
 
-## 🧩 Current Identity
+[Portfolio](https://daniel.seriousdesign.net/) · [LinkedIn](https://www.linkedin.com/in/danielproano88/) · [GitLab](https://gitlab.com/danieluxury)
 
-- 🛠️ Web Developer since **2023**
-- ⚡ Firmware Engineer for **10 years** (C/C++, ARM, embedded systems)
-- 🏛️ Working on large-scale Drupal migrations & Symfony systems
-- 🤖 Slowly moving into AI + developer automation
+## What I work on
 
----
+- **Drupal:** custom modules, multilingual migrations, Commerce, configuration, site building, and theming.
+- **PHP and Symfony:** API integrations, backend development, and refactoring legacy systems.
+- **Developer tooling:** data imports, deployment checks, quality assurance, and audits across multiple projects.
 
-## 🧠 About Me (compiled)
+## Selected work
 
-```rust
-module daniel
+| Project | My contribution |
+| --- | --- |
+| **University of Liechtenstein — uni.li** | Led the migration from a profile-based Drupal installation to a new project, developing plugins to migrate configuration, multilingual content, and nested Paragraphs. |
+| **[Fulterer](https://fulterer.com/)** | Developed custom modules and data normalization/import tools, upgraded versions, and customized Drupal Commerce for an industrial catalog and webshop. |
+| **holzbaukunst** | Refactored the Symfony API supporting a WordPress site and built the replacement website. |
+| **[LeonorMerino gallery](https://galeria.seriousdesign.net/)** | Built the art gallery and implemented workflows to import and convert images. |
+| **[My personal site](https://daniel.seriousdesign.net/)** | Using Drupal AI modules to explore AI integration in a working Drupal project. |
+| **Core and Watchtower** | Built tools to check Drupal projects against internal standards and run SEO and technology audits. |
 
-aboutMe :: struct {
-  mission    :: string;
-  stack      :: string[];
-  hobbies    :: string[];
-  funFact    :: string;
-  currentRun :: string;
-}
+I also develop custom modules and tools for deployment and quality checks, including site-audit, qa, content-reviewer, pwa, and dev-tools.
 
-main :: func(): void {
-  daniel :: aboutMe = {
-    mission: "Build useful systems that feel light, clean, and meaningful.",
-    stack: ["Drupal", "Symfony", "PHP", "Python", "JavaScript"],
-    hobbies: ["Philosophy", "Project Architecture", "e-Football"],
-    funFact: "Retiring from programming at 92 (no sooner).",
-    currentRun: "Migrating universities + building personal tools.",
-  };
+## Public projects
 
-  println("Loading Daniel...");
-}
-````
+- **[DrupalBlade](https://github.com/danieluxury88/drupal-blade):** a Drupal 11 project with DDEV and developer tooling for packaging content-type configuration.
+- **[BotsTeam](https://github.com/danieluxury88/BotsTeam):** a Python workspace for development automation, including Git history analysis, test suggestions, and issue planning.
 
----
+## Tools and languages
 
-## 🧰 Tools I Like Carrying
+**Web:** PHP, Symfony, Drupal 10/11, JavaScript, HTML, CSS/Sass, SQL/MySQL.  
+**Workflow:** Git, Composer, Drush, DDEV, Docker, Webpack, CI/CD, PHPUnit, Playwright.  
+**Automation and systems:** Python, Bash, Rust, C/C++, ARM.
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.svgporn.com/logos/symfony.svg" height="48"/>
-      <br>Symfony
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.svgporn.com/logos/drupal.svg" height="48"/>
-      <br>Drupal
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.svgporn.com/logos/php.svg" height="48"/>
-      <br>PHP
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.svgporn.com/logos/python.svg" height="48"/>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.svgporn.com/logos/javascript.svg" height="48"/>
-      <br>JavaScript
-    </td>
-  </tr>
+## A little more
 
-  <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.svgporn.com/logos/docker-icon.svg" height="48"/>
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.svgporn.com/logos/linux-tux.svg" height="48"/>
-      <br>Linux
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.svgporn.com/logos/bash-icon.svg" height="48"/>
-      <br>Bash
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.svgporn.com/logos/git-icon.svg" height="48"/>
-      <br>Git
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.svgporn.com/logos/visual-studio-code.svg" height="48"/>
-      <br>VS Code
-    </td>
-  </tr>
+I speak Spanish and professional English, and can work with U.S. Pacific Time overlap. Outside work, I enjoy philosophy, theology, and eFootball.
 
-  <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.svgporn.com/logos/htmx.svg" height="48"/>
-      <br>HTMX
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.svgporn.com/logos/fastapi-icon.svg" height="48"/>
-      <br>FastAPI
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.svgporn.com/logos/django-icon.svg" height="48"/>
-      <br>Django
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.svgporn.com/logos/playwright.svg" height="48"/>
-      <br>Playwright
-    </td>
-    <td align="center" width="96">
-      <img src="https://www.svgrepo.com/show/373977/plantuml.svg" height="48"/>
-      <br>PlantUML
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.svgporn.com/logos/c.svg" height="48"/>
-      <br>C
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.svgporn.com/logos/c-plusplus.svg" height="48"/>
-      <br>C++
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.svgporn.com/logos/java.svg" height="48"/>
-      <br>Java
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.svgporn.com/logos/arm.svg" height="48"/>
-      <br>ARM
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.svgporn.com/logos/sqlite.svg" height="48"/>
-      <br>SQLite
-    </td>
-  </tr>
-</table>
-
-
-## 🧪 Current Experiments
-
-* 🌐 Building my personal platform + digital toolbox
-  → [https://mvp.danieluxury.top](https://mvp.danieluxury.top)
-
-* 🏛️ Collaborating on Drupal ecosystems at **ProtonSystems**
-  (migration, architecture, enterprise platforms)
-
-* 🇪🇨 Projects for LinkHome Ecuador
-
----
-
-## 📦 Backlog of Side Quests
-
-* 🎮 *Ponciano Organizado* — a game about structured life
-* 🧠 A tool to connect ideas → wisdom engine
-* 📊 Personal dashboards for planning + finances + growth
-
----
-
-## 🎯 Long Game
-
-* Become a **Drupal / Software Architect**
-* Build an ecosystem of human + bot collaboration
-* Study Philosophy + Theology while building technology
-
----
-
-## 🛰️ Transmission Open
-
-I like projects that are:
-
-* ambitious
-* efficient
-* a bit weird
-* deeply human
-
-Feel free to explore my repos or reach out.
-
+You can find more of my work at **[daniel.seriousdesign.net](https://daniel.seriousdesign.net/)**.
